@@ -8,6 +8,5 @@
 [提出建议Propose](https://support.qq.com/product/387213) 
 [学校主页School Homepage](http://www.njbx.com/)
 ***
-王泉森©2022 郑煦翔©2022. All Rights Reserved.
 
 Copyright©2022 王泉森.©2022 郑煦翔. All Rights Reserved.
