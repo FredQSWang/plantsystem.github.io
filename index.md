@@ -8,7 +8,7 @@ Welcome to the **NJBX-Plant.System**!
 ***
 [提出建议Propose](https://support.qq.com/product/387213) 
 [学校主页School Homepage](http://www.njbx.com/)
-
+<iframe id="afdian_leaflet_{1}" src="https://afdian.net/leaflet?slug=FredW" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script>
 ***
 Copyright©2022 王泉森.©2022 郑煦翔. All Rights Reserved.
-<iframe id="afdian_leaflet_{1}" src="https://afdian.net/@FredW" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script>
+
