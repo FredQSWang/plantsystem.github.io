@@ -11,6 +11,8 @@ Welcome to the **NJBX-Plant.System**!
 ***
 [提出建议Propose](https://support.qq.com/product/387213) 
 
+如果您想提出建议又不想被别人看到，请发送电子邮件至[fred_wangquansen@qq.com](malito:fred_wangquansen@qq.com)
+
 [学校主页School Homepage](http://www.njbx.com/)
 
 ***
