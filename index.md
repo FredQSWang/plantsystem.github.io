@@ -11,4 +11,4 @@ Welcome to the **NJBX-Plant.System**!
 
 ***
 Copyright©2022 王泉森.©2022 郑煦翔. All Rights Reserved.
-<iframe id="afdian_leaflet_{1}" src="https://afdian.net/leaflet?slug={1}" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script>
+<iframe id="afdian_leaflet_{1}" src="https://afdian.net/@FredW" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script>
