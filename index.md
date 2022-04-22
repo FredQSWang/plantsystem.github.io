@@ -15,7 +15,7 @@ Welcome to the **NJBX-Plant.System**!
 
 If you want to make suggestions and don't want to be seen by others, Please email to☞
 
-[fred_wangquansen@qq.com](mailto:fred_wangquansen@qq.com)
+[fred_wangquansen@qq.com](mailto:3285952671@qq.com)
 
 [学校主页School Homepage](http://www.njbx.com/)
 
