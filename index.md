@@ -11,11 +11,11 @@ Welcome to the **NJBX-Plant.System**!
 ***
 [提出建议Propose](https://support.qq.com/product/387213) 
 
-如果您想提出建议又不想被别人看到，请发送电子邮件至☞
+::: tip 
 
-If you want to make suggestions and don't want to be seen by others, Please email to☞
+如果您想提出建议又不想被别人看到，请发送电子邮件至If you want to make suggestions and don't want to be seen by others, Please email to☞[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
 
-[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
+:::
 
 [学校主页School Homepage](http://www.njbx.com/)
 
