@@ -1,4 +1,7 @@
-#Privacy statement
+---
+permalink: /PrivacyStatement-en.html
+---
+# Privacy statement
 
 In the process of using plantsystem, plantsystem (hereinafter referred to as "we") may collect some private information (hereinafter referred to as "information") of users (hereinafter referred to as "you"). We attach great importance to the security of your information. This statement will explain why and how we use, store and protect your information.
 
@@ -11,9 +14,7 @@ Plantsystem reserves the right of final interpretation of this statement.
 We will actively collect the following information:
 
 -**IP address**: we need to record the IP address to prevent attack and abuse, conduct data analysis and investigation, and provide better services;
-
 -**cookies**: we need cookies to identify users, determine session status and provide better services;
-
 -**some information from third parties**: we need this information to identify users, conduct data analysis and investigation, and better provide services;
 
 In fact, you don't have to provide this information, but in most cases, if you don't provide this information, we won't be able to provide services for you.
