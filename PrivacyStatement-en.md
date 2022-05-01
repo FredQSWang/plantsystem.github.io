@@ -51,7 +51,7 @@ In order to provide better services, plantsystem introduces services provided by
 
 -**GitHub**: [privacy statement]（ https://docs.github.com/github/site-policy/github-privacy-statement )
 -We use GitHub's code hosting (GIT) service, continuous integration (CI) service and static website hosting service (pages);
--**腾讯兔小巢**: [Tencent service agreement]（ https://www.qq.com/contract.shtml )
+-**腾讯兔小巢**: [腾讯服务协议]（ https://www.qq.com/contract.shtml )
 -We used all the functions of Tencent rabbit nest;
 -**爱发电**: [爱发电使用协议与条款]（ https://afdian.net/term )
 -We used all the functions of love power generation
