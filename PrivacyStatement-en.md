@@ -27,7 +27,7 @@ In most cases, most of the information will be provided by yourself. The informa
 
 Some information may be provided by a third party with or without your consent (such as the user information requested in the third party GitHub login). We will only ask the third party for the information we need, but the final information provided to us by the third party will be determined by the corresponding subject.
 
-##How do we use, store and protect your information
+## How do we use, store and protect your information
 
 In most cases, we will only use your information to provide the best possible service and constantly improve the service we provide. We will also use your information for data analysis and investigation.
 
@@ -37,7 +37,7 @@ In order to provide better services, we may provide some of your information to 
 
 It is our obligation to protect users' information from illegal acquisition. Unless with your permission, or plantsystem merges with other entities, or is affected by force majeure, we will not take the initiative to disclose your information to a third party under unnecessary circumstances, nor will we sell your information to a third party for any purpose.
 
-##Ownership, retention and deletion of user information
+## Ownership, retention and deletion of user information
 
 Although we may store your information, you still have the ownership of your information. In most cases, we will only obtain and store your information when necessary, and delete unnecessary information immediately after use.
 
@@ -51,9 +51,9 @@ In order to provide better services, plantsystem introduces services provided by
 
 -**GitHub**: [privacy statement]（ https://docs.github.com/github/site-policy/github-privacy-statement )
 -We use GitHub's code hosting (GIT) service, continuous integration (CI) service and static website hosting service (pages);
--**Tencent rabbit nest**: [Tencent service agreement]（ https://www.qq.com/contract.shtml )
+-**腾讯兔小巢**: [Tencent service agreement]（ https://www.qq.com/contract.shtml )
 -We used all the functions of Tencent rabbit nest;
--** love power generation**: [爱发电使用协议与条款]（ https://afdian.net/term )
+-**爱发电**: [爱发电使用协议与条款]（ https://afdian.net/term )
 -We used all the functions of love power generation
 
 Updated on: April 30, 2021
