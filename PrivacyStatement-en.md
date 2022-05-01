@@ -9,7 +9,7 @@ Unless otherwise specified, this privacy statement applies to all activities bet
 
 Plantsystem reserves the right of final interpretation of this statement.
 
-##Information and reasons we actively collect
+## Information and reasons we actively collect
 
 We will actively collect the following information:
 
@@ -19,7 +19,7 @@ We will actively collect the following information:
 
 In fact, you don't have to provide this information, but in most cases, if you don't provide this information, we won't be able to provide services for you.
 
-##How do we collect your information
+## How do we collect your information
 
 We will follow the principle of minimization to collect information, that is, only necessary information will be collected.
 
