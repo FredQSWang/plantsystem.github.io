@@ -9,7 +9,7 @@ permalink: /PrivacyStatement.html
 
 本声明的最终解释权归 PlantSystem 所有。
 
-## Tip & Warning
+## Tip & Warning(此部分不属于隐私声明)
 
 ### Can't understand Chinese?
 
