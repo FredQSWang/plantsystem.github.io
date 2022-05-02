@@ -9,17 +9,14 @@ Welcome to the **NJBX-Plant.System**!
 > 后楼小花园Back-Building Small garden
 
 ***
-[提出建议Propose](https://support.qq.com/product/387213) 
+[提出建议Propose](https://support.qq.com/product/387213)
 
-::: tip 
-
-如果您想提出建议又不想被别人看到，请发送电子邮件至If you want to make suggestions and don't want to be seen by others, Please email to☞[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
-
-:::
+Tip如果您想提出建议又不想被别人看到，请发送电子邮件至If you want to make suggestions and don't want to be seen by others, Please email to☞[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
 
 [学校主页School Homepage](http://www.njbx.com/)
 
 ***
+<img width="631" alt="archafd logo big-发电紫" src="https://user-images.githubusercontent.com/91039316/166202394-acef62a9-7089-4c9a-9510-98705908e666.png">
 
 <iframe id="afdian_leaflet_FredW" src="https://afdian.net/leaflet?slug=FredW" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_FredW").width = "100%" : document.getElementById("afdian_leaflet_FredW").width = "640"</script>
   
