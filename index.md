@@ -16,7 +16,7 @@ Tip如果您想提出建议又不想被别人看到，请发送电子邮件至If
 [学校主页School Homepage](http://www.njbx.com/)
 
 ***
-<img width="631" alt="archafd logo big-发电紫" src="https://user-images.githubusercontent.com/91039316/166202394-acef62a9-7089-4c9a-9510-98705908e666.png">
+<img width="160" alt="arch水印-紫色字" src="https://user-images.githubusercontent.com/91039316/166202842-59b79d17-086f-408d-8634-b779db164080.png">
 
 <iframe id="afdian_leaflet_FredW" src="https://afdian.net/leaflet?slug=FredW" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_FredW").width = "100%" : document.getElementById("afdian_leaflet_FredW").width = "640"</script>
   
