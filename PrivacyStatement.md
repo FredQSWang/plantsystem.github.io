@@ -17,6 +17,9 @@ These documents are only available in Simplified Chinese at present. You may use
 
 If you can use both Simplified Chinese and your language fluently, you can help us translate these documents if you are willing :-) Please open a Pull Request in our GitHub repository, or contact the administrators by [sending a support ticket](https://support.qq.com/product/387213).
 
+### 共享方式
+PlantSystem 使用手册中的所有内容，除非特别说明，均以 [署名-相同方式共享4.0国际(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权使用。在引用 PlantSystem 使用手册中的内容时，请注意遵守许可协议。
+
 ## 我们主动收集的信息和理由
 
 我们将会主动收集以下信息：
