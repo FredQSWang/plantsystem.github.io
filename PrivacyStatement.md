@@ -9,6 +9,14 @@ permalink: /PrivacyStatement.html
 
 本声明的最终解释权归 PlantSystem 所有。
 
+## Tip & Warning
+
+### Can't understand Chinese?
+
+These documents are only available in Simplified Chinese at present. You may use [Google Translate](https://translate.google.com).
+
+If you can use both Simplified Chinese and your language fluently, you can help us translate these documents if you are willing :-) Please open a Pull Request in our GitHub repository, or contact the administrators by [sending a support ticket](https://support.qq.com/product/387213).
+
 ## 我们主动收集的信息和理由
 
 我们将会主动收集以下信息：
@@ -56,6 +64,7 @@ permalink: /PrivacyStatement.html
 - **爱发电**：[爱发电使用协议与条款](https://afdian.net/term)
     - 我们使用了 爱发电 的所有功能
 
+## 更新&生效日期
 
 更新日期：2021年04月30日
 生效日期：2021年05月01日
