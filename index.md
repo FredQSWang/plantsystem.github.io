@@ -2,16 +2,14 @@
 # **植物系统.首页**
 欢迎来到**南京市北京东路小学植物系统**！
 
-Welcome to the **NJBX-Plant.System**!
-
 ***
 
-> 后楼小花园Back-Building Small garden
+> 后楼小花园
 
 ***
-[提出建议Propose](https://support.qq.com/product/387213)
+[提出建议](https://support.qq.com/product/387213)
 
-Tip如果您想提出建议又不想被别人看到，请发送电子邮件至If you want to make suggestions and don't want to be seen by others, Please email to☞[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
+Tip 如果您想提出建议又不想被别人看到，请发送电子邮件至☞[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
 
 [学校主页School Homepage](http://www.njbx.com/)
 
