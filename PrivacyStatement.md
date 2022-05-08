@@ -72,3 +72,5 @@ PlantSystem 使用手册中的所有内容，除非特别说明，均以 [署名
 更新日期：2021年04月30日
 
 生效日期：2021年05月01日
+
+### [点我回到主页](https://the-2016-scientific-3rd-group.github.io/plantsystem.github.io/)
