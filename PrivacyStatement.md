@@ -18,7 +18,7 @@ These documents are only available in Simplified Chinese at present. You may use
 If you can use both Simplified Chinese and your language fluently, you can help us translate these documents if you are willing :-) Please open a Pull Request in our GitHub repository, or contact the administrators by [sending a support ticket](https://support.qq.com/product/387213) or [email](/email.html).
 
 ### 共享方式
-PlantSystem 使用手册中的所有内容，除非特别说明，均以 [署名-相同方式共享4.0国际(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权使用。在引用 PlantSystem 使用手册中的内容时，请注意遵守许可协议。
+PlantSystem 中的所有内容，除非特别说明，均以 [署名-相同方式共享4.0国际(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权使用。在引用 PlantSystem 中的内容时，请注意遵守许可协议。
 
 ## 我们主动收集的信息和理由
 
@@ -74,3 +74,23 @@ PlantSystem 使用手册中的所有内容，除非特别说明，均以 [署名
 生效日期：2021年05月01日
 
 ### [点我回到主页](https://the-2016-scientific-3rd-group.github.io/plantsystem.github.io/)
+
+***
+[提出建议Propose](https://support.qq.com/product/387213) 
+
+如果您想提出建议又不想被别人看到，请发送电子邮件至☞
+
+If you want to make suggestions and don't want to be seen by others, Please email to☞
+
+[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
+
+[学校主页School Homepage](http://www.njbx.com/)
+
+[隐私声明](/PrivacyStatement.html)
+
+***
+
+<iframe id="afdian_leaflet_FredW" src="https://afdian.net/leaflet?slug=FredW" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_FredW").width = "100%" : document.getElementById("afdian_leaflet_FredW").width = "640"</script>
+  
+***
+Copyright©2022 王泉森.©2022 郑煦翔. All Rights Reserved.
