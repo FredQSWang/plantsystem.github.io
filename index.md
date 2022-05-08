@@ -9,7 +9,7 @@
 ***
 [提出建议](https://support.qq.com/product/387213)
 
-Tip 如果您想提出建议又不想被别人看到，请发送电子邮件至☞[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
+Tip 如果您想提出建议又不想被别人看到，请查看☞[邮件工单](/email.html)
 
 [学校主页School Homepage](http://www.njbx.com/)
 
