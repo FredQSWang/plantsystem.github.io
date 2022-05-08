@@ -11,7 +11,7 @@
 
 Tip 如果您想提出建议又不想被别人看到，请查看☞[邮件工单](/email.html)
 
-[学校主页School Homepage](http://www.njbx.com/)
+[学校主页](http://www.njbx.com/)
 
 ***
 <img width="160" alt="arch水印-紫色字" src="https://user-images.githubusercontent.com/91039316/166202842-59b79d17-086f-408d-8634-b779db164080.png">
@@ -20,4 +20,3 @@ Tip 如果您想提出建议又不想被别人看到，请查看☞[邮件工单
   
 ***
 Copyright©2022 王泉森.©2022 郑煦翔. All Rights Reserved.
-
