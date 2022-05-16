@@ -1,5 +1,5 @@
 ---
-permalink: /PrivacyStatement.html
+permalink: /privacystatement.html
 ---
 # 隐私声明
 
