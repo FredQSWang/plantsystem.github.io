@@ -1,7 +1,13 @@
 ---
 permalink: /privacystatement.html
 ---
-# 隐私声明
+![logo](https://user-images.githubusercontent.com/91039316/158558954-88db26b9-933f-4760-bef3-8679a9f0aeee.png)
+
+# **植物系统.隐私声明**
+
+欢迎来到**南京市北京东路小学植物系统**！
+
+***
 
 在使用 PlantSystem 的过程中，PlantSystem（以下简称“我们”）可能会收集用户（以下简称“你”）的一些隐私信息（以下简称“信息”）。我们十分重视你的信息的安全，这份声明将阐述我们为何、如何使用、存储和保护你的信息。
 
