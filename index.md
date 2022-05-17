@@ -13,7 +13,7 @@ Tip 如果您想提出建议又不想被别人看到，请查看☞[邮件工单
 
 [学校主页](http://www.njbx.com/)
 
-[隐私声明](/PrivacyStatement.html)
+[隐私声明](/privacystatement.html)
 
 ***
 <img width="160" alt="arch水印-紫色字" src="https://user-images.githubusercontent.com/91039316/166202842-59b79d17-086f-408d-8634-b779db164080.png">
