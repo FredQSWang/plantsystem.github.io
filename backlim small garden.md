@@ -11,16 +11,16 @@ permalink: /001.html
 
 ## 大概样貌
 
-![-d99b9f9a90af43](https://user-images.githubusercontent.com/91039316/168801822-d6a89576-104c-40fb-9b86-b80443114d8d.jpg)
+![1-1](https://user-images.githubusercontent.com/91039316/168801822-d6a89576-104c-40fb-9b86-b80443114d8d.jpg)
 
 ## 龟背竹 
 
-![37d908fd9386617f](https://user-images.githubusercontent.com/91039316/170702408-0d420fe4-ac63-42f4-92d7-6e3286ae7e0d.jpg)
+![1-2](https://user-images.githubusercontent.com/91039316/170702408-0d420fe4-ac63-42f4-92d7-6e3286ae7e0d.jpg)
 
 龟背竹(学名：Monstera deliciosa Liebm)系天南星科(Araceae)龟背竹属(Monstera)的一种多年生木质藤本攀缘性常绿灌木,别名蓬莱蕉、龟背蕉、电线兰，生于林中,攀缘树上 。茎绿色，粗壮，周延为环状，余光滑叶柄绿色；叶片大，轮廓心状卵形，厚革质，表面发亮，淡绿色，背面绿白色。佛焰苞厚革质，宽卵形，舟状，近直立。肉穗花序近圆柱形，淡黄色。雄蕊花丝线形。雌蕊陀螺状，黄色，稍凸起。浆果淡黄色，柱头周围有青紫色斑点。花期8-9月，果于异年花期之后成熟。 
 
 ## 红叶石楠
 
-![-3773f3bd67c0d10c](https://user-images.githubusercontent.com/91039316/170705324-4c5bdfcd-771b-41d1-a80b-da5ba616a7ab.jpg)
+![IMG_](https://user-images.githubusercontent.com/91039316/170706812-b47a75b7-2316-4193-b435-9de356d66dbf.jpg)
 
-红叶石楠（学名：Photinia × fraseri Dress）是蔷薇科，石楠属杂交种，为常绿小乔木或灌木，乔木高可达5米、灌木高可达2米。树冠为圆球形，叶片革质，长圆形至倒卵状、披针形，叶端渐尖，叶基楔形，叶缘有带腺的锯齿，花多而密，复伞房花序，花白色，梨果黄红色，5-7月开化，9-10月。
+红叶石楠（学名：Photinia × fraseri Dress）是蔷薇科，石楠属杂交种，为常绿小乔木或灌木，乔木高可达5米、灌木高可达2米。树冠为圆球形，叶片革质，长圆形至倒卵状、披针形，叶端渐尖，叶基楔形，叶缘有带腺的锯齿，花多而密，复伞房花序，花白色，梨果黄红色，5-7月开花，9-10月。
