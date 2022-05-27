@@ -1,5 +1,5 @@
 ---
-permalink: /1.html
+permalink: /bsg.html
 ---
 ![logo](https://user-images.githubusercontent.com/91039316/158558954-88db26b9-933f-4760-bef3-8679a9f0aeee.png)
 
