@@ -53,4 +53,24 @@ permalink: /001.html
 
 蚂蚁[学名Pheidole megacephala(Fabricius)]有21亚科283属〈主流沿用的是16亚科的分类系统和21亚科的系统相比，新的系统从猛蚁（ponerine）中分出了若干亚科〉。一般体形小，颜色有黑、褐、黄、红等，体壁具弹性，且光滑或有微毛。口器咀嚼式，上颚发达。触角膝状，柄节很长，末端2~3节膨大，全触角分4~13节。腹部呈结状。分有翅或无翅。前足的距离大，梳状，为净角器（清理触角用）
 
-蚂蚁的外部形态分为头、胸、腹三部分，有六条腿。蚂蚁卵约0.5毫米长，呈不规则的椭圆形，乳白色，幼虫蠕虫状半透明。工蚁体形细小，身体长约2.8毫米，全身棕黄，单个蚂蚁要细看才易发现。雄、雌蚁体都比较粗大。腹部肥胖，头、胸棕黄色，腹部前半部棕黄色，后半部棕褐色。雄蚁体长约5.5毫米。雌蚁体长约6.2毫米。室内环境常见的蚂蚁有小黄家蚁等。
+蚂蚁的外部形态分为头、胸、腹三部分，有六条腿。蚂蚁卵约0.5毫米长，呈不规则的椭圆形，乳白色，幼虫蠕虫状半透明。工蚁体形细小，身体长约2.8毫米，全身棕黄，单个蚂蚁要细看才易发现。雄、雌蚁体都比较粗大。腹部肥胖，头、胸棕黄色，腹部前半部棕黄色，后半部棕褐色。雄蚁体长约5.5毫米。雌蚁体长约6.2毫米。室内环境常见的蚂蚁有小黄家蚁等
+
+***
+
+[提出建议](https://support.qq.com/product/387213)
+
+Tip 如果您想提出建议又不想被别人看到，请查看☞[邮件工单](/email.html)
+
+[学校主页](http://www.njbx.com/)
+
+[隐私声明](/privacystatement.html)
+
+***
+
+<img width="160" alt="arch水印-紫色字" src="https://user-images.githubusercontent.com/91039316/166202842-59b79d17-086f-408d-8634-b779db164080.png">
+
+<iframe id="afdian_leaflet_FredW" src="https://afdian.net/leaflet?slug=FredW" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_FredW").width = "100%" : document.getElementById("afdian_leaflet_FredW").width = "640"</script>
+
+***
+
+Copyright©2022 王泉森.©2022 郑煦翔. All Rights Right
